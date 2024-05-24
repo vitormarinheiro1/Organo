@@ -1,6 +1,6 @@
 # Projeto de Gerenciamento de colaboradores
-<img height="500" src="/public/imagens/organo1.png">
-<img height="500" src="/public/imagens/organo2.png">
+<img height="500" src="/public/imagens/organo1.PNG">
+<img height="500" src="/public/imagens/organo2.PNG">
 
 ### 🛠 Tecnologias
 
