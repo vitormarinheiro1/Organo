@@ -1,5 +1,6 @@
-<h1 align="center">Organo</h1>
-<p align="center">Projeto de Gerenciamento de colaboradores/p>
+# Organo
+
+<p>Projeto de Gerenciamento de colaboradores</p>
 
 <img height="500" src="/public/imagens/organo1.PNG"><img height="500" src="/public/imagens/organo2.PNG">
 
