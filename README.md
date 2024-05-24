@@ -19,7 +19,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/vitormarinheiro1/organo.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd portfolio
+$ cd organo
 
 # Instale as dependências
 $ npm install
